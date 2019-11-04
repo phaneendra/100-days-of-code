@@ -8,6 +8,6 @@
 
 **Link(s) to work**
 
-1.  [Day 1 : Hello World](cmd/hello)
+1. [Day 1 : Hello World](cmd/hello)
 
 ### Day 2: Nov 6, Tuesday 2019

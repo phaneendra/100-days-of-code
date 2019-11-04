@@ -4,3 +4,4 @@ Samples for learning golang. This would be something other than what I code for 
 
 ## Contents
 
+1. [Hello World](cmd/hello)
