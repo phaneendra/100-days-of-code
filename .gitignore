@@ -1,4 +1,10 @@
 ######################################################
+# Project specific settings
+
+bin
+**/.exercism/
+
+######################################################
 #Go lang git ignore settings 
 
 # Binaries for programs and plugins
